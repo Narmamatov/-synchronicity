@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    align-items: center;
+}
+body h1{
+    font-size: 20px;
+    border: 1px solid black;
+    width: 200px;
+    padding: 10px;
+}
+body h2{
+    font-size: 16px;
+    border: 1px solid black;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+
+}
+body h3{
+    font-size: 16px;
+    border: 1px solid black;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+body img{
+    padding: 20px 0;
+}
